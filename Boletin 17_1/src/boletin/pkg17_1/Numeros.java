@@ -2,7 +2,7 @@ package boletin.pkg17_1;
 /**
  * @author Juan Borrajo Rodriguez Nº5937
  */
-import java.util.Random;
+
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
@@ -10,7 +10,7 @@ import java.util.concurrent.ThreadLocalRandom;
  * @author Juan
  */
 public class Numeros {
-    Random random=new Random();
+   
     
     public void arrayNum() {
         int[] numeros = new int[6];
