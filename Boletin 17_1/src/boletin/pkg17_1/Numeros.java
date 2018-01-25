@@ -11,7 +11,10 @@ import java.util.concurrent.ThreadLocalRandom;
  */
 public class Numeros {
    
-    
+    /*
+    Metodo arrayNum
+    Es un metodo que no devuelve nada.
+    */
     public void arrayNum() {
         int[] numeros = new int[6];
         
